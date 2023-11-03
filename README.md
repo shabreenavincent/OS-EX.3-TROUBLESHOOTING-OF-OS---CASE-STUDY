@@ -1,103 +1,99 @@
-# OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY
 
+# OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY
 ## AIM:
 To Troubleshooting of Operating System
 
 ## STEPS:
- 
-### 1. Identify the Problem: 
-Start by determining the specific issue or error you're encountering. Is it a system crash, slow performance, software not working, or something else?
+1.Identify the Problem
 
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/60d04adf-9e8a-4bdd-9ca0-708938ec0c5d)
+2.Gather Information
 
+3.Check for Updates
 
-### 2. Gather Information:
-Collect relevant information about the problem. Note error messages, system behavior, recent changes, or any patterns related to the issue.
+4.Restart the System
 
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/c10a7dee-4181-470d-aae1-cd3e1230b655)
+5.Check Hardware
 
-### 3. Check for Updates:
-Ensure your operating system, drivers, and software are up to date. Sometimes,updating can resolve compatibility or security issues updating can resolves.
+6.Run Diagnostic Tools
 
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/040b4e39-8daa-4cb3-9e5a-f7d9c824e475)
+7.Review Event Logs
 
-### 4. Restart the System:
+8.Remove Recently Installed Software
+
+9.Safe Mode
+
+10.Virus and Malware Scan
+
+11.Check Disk and File System
+
+12.Update Drivers
+
+13.Restore the System
+
+14.Backup Data
+
+15.Reinstall Operating system
+## PROCEDURE:
+## STEP-1: Identify the Problem Start by determining the specific issue or error you're encountering. Is it a system crash, slow performance, software not working, or something else?
+
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/fbff31c9-ce00-4e98-bfbf-8d22bcc05e8c)
+
+## STEP-2: Gather Information Collect relevant information about the problem. Note error messages, system behavior, recent changes, or any patterns related to the issue.
+
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/95227fac-ef95-4174-81bb-06a16c9edb0a)
+
+## STEP-3: Check for Updates Ensure your operating system, drivers, and software are up to date. Sometimes,updating can resolve compatibility or security issues updating can resolves.
+
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/28945982-3cdf-41af-a36c-531c2de3d1f7)
+
+## STEP-4: Restart the System
+
 A simple restart can often fix minor glitches and improve system performance.
 
- 
-### 5. Check Hardware:
-If it's a hardware-related issue, ensure that all hardware components are properly connected and functioning. Look for loose cables, overheating, or hardware failures.
+## STEP-5: Check Hardware If it's a hardware-related issue, ensure that all hardware components are properly connected and functioning. Look for loose cables, overheating, or hardware failures.
 
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/f057c238-bf84-456c-9a32-97adc1043eb3)
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/7b574381-f37f-4269-a2ba-396e03b50b1c)
 
-### 6. Run Diagnostic Tools:
-Use built-in diagnostic tools provided by the operating system to identify hardware or software problems.
+## STEP-6: Run Diagnostic Tools Use built-in diagnostic tools provided by the operating system to identify hardware or software problems.
 
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/73d096db-f230-4f2b-a457-3663d53ef89e)
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/0a53808d-5a37-44ab-b341-6ad20cca44fb)
 
+## STEP-7: Review Event Logs Check the system logs for error messages or warnings that might provide clues about the issue. In Windows, you can use the Event Viewer; in Linux, check syslog or journalctl.
 
-### 7. Review Event Logs:
-Check the system logs for error messages or warnings that might provide clues about the issue. In Windows, you can use the Event Viewer; in Linux, check syslog or journalctl.
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/c8d674c2-6e2d-4097-8852-56d5dfea2c12)
 
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/b4363162-3bed-4840-8a61-761c925fa623)
+## STEP-8: Remove Recently Installed Software If the problem started after installing new software, consider uninstalling it to see if that resolves the issue.
 
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/7ddc5bf2-1c08-4eb4-8873-495fce99aaa8)
 
-### 8. Remove Recently Installed Software: 
-If the problem started after installing new software, consider uninstalling it to see if that resolves the issue.
+## STEP-9: Safe Mode Boot the system into safe mode to check if the problem persists. Safe mode loads the OS with minimal drivers and can help identify if third-party software is causing the issue.
 
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/e0b21d18-0c3f-496f-84a7-9b9876f28bef)
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/52d0c586-bcf9-48fd-bfdb-de095ae7f5a9)
 
+## STEP-10: Virus and Malware Scan Perform a full system scan for viruses and malware using reputable antivirus software.
 
-### 9. Safe Mode:
-Boot the system into safe mode to check if the problem persists. Safe mode loads the OS with minimal drivers and can help identify if third-party software is causing the issue.
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/8607dacc-9a26-48e4-af47-e198e59ca3a1)
 
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/745c707b-9c7b-40ac-b389-fbf880f9fb9a)
+## STEP-11: Check Disk and File System Use built-in utilities like chkdsk (Windows) or fsck (Linux) to scan and repair disk errors and file system issues
 
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/58a3434b-18ef-4134-b313-7171ec807684)
 
-### 10. Virus and Malware Scan:
-Perform a full system scan for viruses and malware using reputable antivirus software.
+## STEP-12: Update Drivers Ensure that your hardware drivers (graphics, sound, network) are up to date. Outdated drivers can cause various problems.
 
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/e9388375-515b-4459-ae3b-475c8a7016b2)
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/df144328-eaad-4f8a-8070-f394cdeadc8e)
 
+## STEP-13: Restore the System If applicable, consider using system restore points to revert your system to a previous state when it was working correctly.
 
-### 11. Check Disk and File System:
-Use built-in utilities like chkdsk (Windows) or fsck (Linux) to scan and repair disk errors and file system issues.
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/aea03fda-0319-4104-ae6e-d3eccf619417)
 
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/c362f305-0bc4-442d-b4a3-1e7d256d5e6b)
+## STEP-14: Backup Data If all else fails and you suspect a major issue, back up your important data before attempting any major repairs or reinstallations.
 
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/fbb1cb7f-eacc-456a-a5ed-89189dabdbe1)
 
-### 12. Update Drivers:  
-Ensure that your hardware drivers (graphics, sound, network) are up to date. Outdated drivers can cause various problems.
+## STEP-15:Reinstall Operating system As a last resort, you may need to reinstall the operating system. Make sure to back up your data first.
 
- ![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/fd3a2c1d-32f2-4e67-a410-338f70aef67d)
+![image](https://github.com/Niroshassithanathan/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/121418437/5c988efd-65d2-40eb-865a-020832b325e3)
 
+## RESULT:
 
-
-### 13. System Restore: 
-If applicable, consider using system restore points to revert your system to a previous state when it was working correctly.
-
-![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/6952be28-1c51-44f7-9495-e6fe2d77ebe9)
-
-
-### 14. Backup Data: 
-If all else fails and you suspect a major issue, back up your important data before attempting any major repairs or reinstallations.
-
- ![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/f00eed41-469b-4c17-bede-16f6b91712d5)
-
-
-
-### 15. Reinstall OS:
-As a last resort, you may need to reinstall the operating system. Make sure to back up your data first.
-
- ![image](https://github.com/Dhivya-bharathi88/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/128019999/0a543614-96d0-4755-bb7c-f18dd9b5cdaa)
-
- 
-
-### 16. Seek Help:
-If you can't resolve the issue on your own, consider seeking help from online forums, tech support, or a professional technician.  
-
-  
-
-
-## RESULT: 
 The Troubleshooting for the Operating System has been successfully done.
